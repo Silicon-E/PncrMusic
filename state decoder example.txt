@@ -1,0 +1,775 @@
+{
+  "pneumaticcraft:progWidgets": {
+    "type": 9,
+    "value": [
+      {
+        "name": {
+          "type": 8,
+          "value": "start"
+        },
+        "x": {
+          "type": 3,
+          "value": -285.0
+        },
+        "y": {
+          "type": 3,
+          "value": -117.0
+        }
+      },
+      {
+        "name": {
+          "type": 8,
+          "value": "label"
+        },
+        "x": {
+          "type": 3,
+          "value": -214.0
+        },
+        "y": {
+          "type": 3,
+          "value": -117.0
+        }
+      },
+      {
+        "string": {
+          "type": 8,
+          "value": "read_54_55"
+        },
+        "name": {
+          "type": 8,
+          "value": "text"
+        },
+        "x": {
+          "type": 3,
+          "value": -199.0
+        },
+        "y": {
+          "type": 3,
+          "value": -117.0
+        }
+      },
+      {
+        "name": {
+          "type": 8,
+          "value": "jump"
+        },
+        "x": {
+          "type": 3,
+          "value": -285.0
+        },
+        "y": {
+          "type": 3,
+          "value": -95.0
+        }
+      },
+      {
+        "string": {
+          "type": 8,
+          "value": "read_54_55"
+        },
+        "name": {
+          "type": 8,
+          "value": "text"
+        },
+        "x": {
+          "type": 3,
+          "value": -270.0
+        },
+        "y": {
+          "type": 3,
+          "value": -95.0
+        }
+      },
+      {
+        "name": {
+          "type": 8,
+          "value": "coordinate_operator"
+        },
+        "x": {
+          "type": 3,
+          "value": -214.0
+        },
+        "variable": {
+          "type": 8,
+          "value": "%music_whistle_54"
+        },
+        "checkX": {
+          "type": 1,
+          "value": 1.0
+        },
+        "y": {
+          "type": 3,
+          "value": -106.0
+        },
+        "checkY": {
+          "type": 1,
+          "value": 1.0
+        },
+        "checkZ": {
+          "type": 1,
+          "value": 1.0
+        },
+        "operator": {
+          "type": 1,
+          "value": 1.0
+        }
+      },
+      {
+        "useVariable": {
+          "type": 1,
+          "value": 1.0
+        },
+        "coord": {
+          "type": 10,
+          "value": {
+            "X": {
+              "type": 3,
+              "value": 1.0
+            },
+            "Y": {
+              "type": 3,
+              "value": 0.0
+            },
+            "Z": {
+              "type": 3,
+              "value": 0.0
+            }
+          }
+        },
+        "name": {
+          "type": 8,
+          "value": "coordinate"
+        },
+        "x": {
+          "type": 3,
+          "value": -199.0
+        },
+        "variable": {
+          "type": 8,
+          "value": "state"
+        },
+        "y": {
+          "type": 3,
+          "value": -106.0
+        }
+      },
+      {
+        "name": {
+          "type": 8,
+          "value": "coordinate_operator"
+        },
+        "x": {
+          "type": 3,
+          "value": -285.0
+        },
+        "variable": {
+          "type": 8,
+          "value": "state"
+        },
+        "checkX": {
+          "type": 1,
+          "value": 1.0
+        },
+        "y": {
+          "type": 3,
+          "value": -106.0
+        },
+        "checkY": {
+          "type": 1,
+          "value": 1.0
+        },
+        "checkZ": {
+          "type": 1,
+          "value": 1.0
+        },
+        "operator": {
+          "type": 1,
+          "value": 0.0
+        }
+      },
+      {
+        "useVariable": {
+          "type": 1,
+          "value": 1.0
+        },
+        "coord": {
+          "type": 10,
+          "value": {
+            "X": {
+              "type": 3,
+              "value": 1.0
+            },
+            "Y": {
+              "type": 3,
+              "value": 0.0
+            },
+            "Z": {
+              "type": 3,
+              "value": 0.0
+            }
+          }
+        },
+        "name": {
+          "type": 8,
+          "value": "coordinate"
+        },
+        "x": {
+          "type": 3,
+          "value": -270.0
+        },
+        "variable": {
+          "type": 8,
+          "value": "%music_whistle_state"
+        },
+        "y": {
+          "type": 3,
+          "value": -106.0
+        }
+      },
+      {
+        "coord": {
+          "type": 10,
+          "value": {
+            "X": {
+              "type": 3,
+              "value": 1.6777216E7
+            },
+            "Y": {
+              "type": 3,
+              "value": 1.0
+            },
+            "Z": {
+              "type": 3,
+              "value": 1.6777216E7
+            }
+          }
+        },
+        "name": {
+          "type": 8,
+          "value": "coordinate"
+        },
+        "x": {
+          "type": 3,
+          "value": -229.0
+        },
+        "variable": {
+          "type": 8,
+          "value": "state"
+        },
+        "y": {
+          "type": 3,
+          "value": -106.0
+        }
+      },
+      {
+        "name": {
+          "type": 8,
+          "value": "coordinate_operator"
+        },
+        "x": {
+          "type": 3,
+          "value": -214.0
+        },
+        "variable": {
+          "type": 8,
+          "value": "%music_whistle_54"
+        },
+        "checkX": {
+          "type": 1,
+          "value": 1.0
+        },
+        "y": {
+          "type": 3,
+          "value": -95.0
+        },
+        "checkY": {
+          "type": 1,
+          "value": 1.0
+        },
+        "checkZ": {
+          "type": 1,
+          "value": 1.0
+        },
+        "operator": {
+          "type": 1,
+          "value": 1.0
+        }
+      },
+      {
+        "useVariable": {
+          "type": 1,
+          "value": 1.0
+        },
+        "coord": {
+          "type": 10,
+          "value": {
+            "X": {
+              "type": 3,
+              "value": 1.0
+            },
+            "Y": {
+              "type": 3,
+              "value": 0.0
+            },
+            "Z": {
+              "type": 3,
+              "value": 0.0
+            }
+          }
+        },
+        "name": {
+          "type": 8,
+          "value": "coordinate"
+        },
+        "x": {
+          "type": 3,
+          "value": -199.0
+        },
+        "variable": {
+          "type": 8,
+          "value": "%music_whistle_54"
+        },
+        "y": {
+          "type": 3,
+          "value": -95.0
+        }
+      },
+      {
+        "coord": {
+          "type": 10,
+          "value": {
+            "X": {
+              "type": 3,
+              "value": 1.6777216E7
+            },
+            "Y": {
+              "type": 3,
+              "value": 1.0
+            },
+            "Z": {
+              "type": 3,
+              "value": 1.6777216E7
+            }
+          }
+        },
+        "name": {
+          "type": 8,
+          "value": "coordinate"
+        },
+        "x": {
+          "type": 3,
+          "value": -184.0
+        },
+        "variable": {
+          "type": 8,
+          "value": "state"
+        },
+        "y": {
+          "type": 3,
+          "value": -95.0
+        }
+      },
+      {
+        "name": {
+          "type": 8,
+          "value": "coordinate_operator"
+        },
+        "x": {
+          "type": 3,
+          "value": -214.0
+        },
+        "variable": {
+          "type": 8,
+          "value": "state"
+        },
+        "checkX": {
+          "type": 1,
+          "value": 1.0
+        },
+        "y": {
+          "type": 3,
+          "value": -84.0
+        },
+        "checkY": {
+          "type": 1,
+          "value": 1.0
+        },
+        "checkZ": {
+          "type": 1,
+          "value": 1.0
+        },
+        "operator": {
+          "type": 1,
+          "value": 0.0
+        }
+      },
+      {
+        "useVariable": {
+          "type": 1,
+          "value": 1.0
+        },
+        "coord": {
+          "type": 10,
+          "value": {
+            "X": {
+              "type": 3,
+              "value": 1.0
+            },
+            "Y": {
+              "type": 3,
+              "value": 0.0
+            },
+            "Z": {
+              "type": 3,
+              "value": 0.0
+            }
+          }
+        },
+        "name": {
+          "type": 8,
+          "value": "coordinate"
+        },
+        "x": {
+          "type": 3,
+          "value": -199.0
+        },
+        "variable": {
+          "type": 8,
+          "value": "state"
+        },
+        "y": {
+          "type": 3,
+          "value": -84.0
+        }
+      },
+      {
+        "useVariable": {
+          "type": 1,
+          "value": 1.0
+        },
+        "coord": {
+          "type": 10,
+          "value": {
+            "X": {
+              "type": 3,
+              "value": 1.0
+            },
+            "Y": {
+              "type": 3,
+              "value": 0.0
+            },
+            "Z": {
+              "type": 3,
+              "value": 0.0
+            }
+          }
+        },
+        "name": {
+          "type": 8,
+          "value": "coordinate"
+        },
+        "x": {
+          "type": 3,
+          "value": -229.0
+        },
+        "variable": {
+          "type": 8,
+          "value": "%music_whistle_54"
+        },
+        "y": {
+          "type": 3,
+          "value": -84.0
+        }
+      },
+      {
+        "name": {
+          "type": 8,
+          "value": "coordinate_operator"
+        },
+        "x": {
+          "type": 3,
+          "value": -214.0
+        },
+        "variable": {
+          "type": 8,
+          "value": "%music_whistle_55"
+        },
+        "checkX": {
+          "type": 1,
+          "value": 1.0
+        },
+        "y": {
+          "type": 3,
+          "value": -73.0
+        },
+        "checkY": {
+          "type": 1,
+          "value": 1.0
+        },
+        "checkZ": {
+          "type": 1,
+          "value": 1.0
+        },
+        "operator": {
+          "type": 1,
+          "value": 0.0
+        }
+      },
+      {
+        "coord": {
+          "type": 10,
+          "value": {
+            "X": {
+              "type": 3,
+              "value": 0.0
+            },
+            "Y": {
+              "type": 3,
+              "value": 0.0
+            },
+            "Z": {
+              "type": 3,
+              "value": 0.0
+            }
+          }
+        },
+        "name": {
+          "type": 8,
+          "value": "coordinate"
+        },
+        "x": {
+          "type": 3,
+          "value": -199.0
+        },
+        "variable": {
+          "type": 8,
+          "value": "state"
+        },
+        "y": {
+          "type": 3,
+          "value": -73.0
+        }
+      },
+      {
+        "name": {
+          "type": 8,
+          "value": "condition_coordinate"
+        },
+        "x": {
+          "type": 3,
+          "value": -214.0
+        },
+        "checkX": {
+          "type": 1,
+          "value": 0.0
+        },
+        "y": {
+          "type": 3,
+          "value": -62.0
+        },
+        "checkY": {
+          "type": 1,
+          "value": 0.0
+        },
+        "checkZ": {
+          "type": 1,
+          "value": 1.0
+        },
+        "operator": {
+          "type": 1,
+          "value": 0.0
+        }
+      },
+      {
+        "useVariable": {
+          "type": 1,
+          "value": 1.0
+        },
+        "coord": {
+          "type": 10,
+          "value": {
+            "X": {
+              "type": 3,
+              "value": 1.0
+            },
+            "Y": {
+              "type": 3,
+              "value": 0.0
+            },
+            "Z": {
+              "type": 3,
+              "value": 0.0
+            }
+          }
+        },
+        "name": {
+          "type": 8,
+          "value": "coordinate"
+        },
+        "x": {
+          "type": 3,
+          "value": -199.0
+        },
+        "variable": {
+          "type": 8,
+          "value": "%music_whistle_54"
+        },
+        "y": {
+          "type": 3,
+          "value": -62.0
+        }
+      },
+      {
+        "string": {
+          "type": 8,
+          "value": "read_56_57"
+        },
+        "name": {
+          "type": 8,
+          "value": "text"
+        },
+        "x": {
+          "type": 3,
+          "value": -199.0
+        },
+        "y": {
+          "type": 3,
+          "value": -40.0
+        }
+      },
+      {
+        "name": {
+          "type": 8,
+          "value": "label"
+        },
+        "x": {
+          "type": 3,
+          "value": -153.0
+        },
+        "y": {
+          "type": 3,
+          "value": -116.0
+        }
+      },
+      {
+        "string": {
+          "type": 8,
+          "value": "read_56_57"
+        },
+        "name": {
+          "type": 8,
+          "value": "text"
+        },
+        "x": {
+          "type": 3,
+          "value": -138.0
+        },
+        "y": {
+          "type": 3,
+          "value": -116.0
+        }
+      },
+      {
+        "name": {
+          "type": 8,
+          "value": "jump"
+        },
+        "x": {
+          "type": 3,
+          "value": -214.0
+        },
+        "y": {
+          "type": 3,
+          "value": -18.0
+        }
+      },
+      {
+        "string": {
+          "type": 8,
+          "value": "read_56_57"
+        },
+        "name": {
+          "type": 8,
+          "value": "text"
+        },
+        "x": {
+          "type": 3,
+          "value": -199.0
+        },
+        "y": {
+          "type": 3,
+          "value": -18.0
+        }
+      },
+      {
+        "name": {
+          "type": 8,
+          "value": "coordinate_operator"
+        },
+        "x": {
+          "type": 3,
+          "value": -214.0
+        },
+        "variable": {
+          "type": 8,
+          "value": "%music_whistle_55"
+        },
+        "checkX": {
+          "type": 1,
+          "value": 1.0
+        },
+        "y": {
+          "type": 3,
+          "value": -29.0
+        },
+        "checkY": {
+          "type": 1,
+          "value": 1.0
+        },
+        "checkZ": {
+          "type": 1,
+          "value": 1.0
+        },
+        "operator": {
+          "type": 1,
+          "value": 0.0
+        }
+      },
+      {
+        "coord": {
+          "type": 10,
+          "value": {
+            "X": {
+              "type": 3,
+              "value": 15.0
+            },
+            "Y": {
+              "type": 3,
+              "value": 0.0
+            },
+            "Z": {
+              "type": 3,
+              "value": 0.0
+            }
+          }
+        },
+        "name": {
+          "type": 8,
+          "value": "coordinate"
+        },
+        "x": {
+          "type": 3,
+          "value": -199.0
+        },
+        "variable": {
+          "type": 8,
+          "value": "state"
+        },
+        "y": {
+          "type": 3,
+          "value": -29.0
+        }
+      }
+    ]
+  }
+}
